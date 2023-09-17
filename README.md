@@ -72,6 +72,5 @@
 
 - **Email:** [shaheryar.rafique100@gmail.com](mailto:shaheryar.rafique100@gmail.com)
 - **LinkedIn:** [Shaheryar Rafique](https://www.linkedin.com/in/yourusername/)
-- **Portfolio:** [shaheryar-rafique.com](https://www.your-website.com)
 
 Thank you for visiting my GitHub profile! Let's build something amazing together.
