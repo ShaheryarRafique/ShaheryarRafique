@@ -30,22 +30,21 @@
 
 **Backend Development:**
 - Node.js, Express.js
-- Python, Django
-- PHP, Laravel
 - RESTful API Design
 
 **Databases:**
 - MongoDB, Mongoose
-- PostgreSQL, MySQL
+- PostgreSQL, Sequelize
 - SupaBase, Prisma
 
 **Authentication and Security:**
 - JWT (JSON Web Tokens)
 - OAuth 2.0
-- Clerk for User Authentication
+- Clerk 
 
 **Deployment and Hosting:**
-- Heroku, Netlify
+- AWS
+- Netlify
 - DigitalOcean
 - Docker for Container Deployment
 
