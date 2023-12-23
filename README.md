@@ -47,6 +47,7 @@
 - Netlify
 - DigitalOcean
 - Docker for Container Deployment
+- S3 Bucket
 
 **UI/UX Frameworks:**
 - Bootstrap, Tailwind CSS
