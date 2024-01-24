@@ -63,8 +63,8 @@
 🌟 Some of my notable projects:
 
 - [Natours - Travel Agency Booking System](https://github.com/ShaheryarRafique/Natours-app): A web app for exploring and booking tours.
-- [Evercare HMS - Hospital Management System](https://github.com/ShaheryarRafique/Evercare-HMS): Efficient hospital management system.
-- [AdHost - Influencer Marketing Platform](https://github.com/ShaheryarRafique/AdHost): Connecting businesses with influencers.
+- [Axiom Toolkit](https://axiomkit.com/tools): Web-based Saas Platform.
+- [Find Any Sentence ](https://findanysentence.com/): Sentence Forum.
 
 ## Contact Me
 
